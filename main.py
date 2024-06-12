@@ -64,7 +64,7 @@ grade_to_point = {
 }
 
 # Streamlit app
-st.set_page_config(page_title="GPA Calculator", page_icon="📊")
+st.set_page_config(page_title="GPA Calculator - 4th Sem", page_icon="📊")
 
 st.markdown("<h1 style='text-align: center;'>GPA Calculator</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>By <strong>Rudhresh S</strong></p>", unsafe_allow_html=True)
