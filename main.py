@@ -11,7 +11,6 @@ subjects = [
     {"code": "ES2401", "name": "Employability Enhancement Skills", "credits": 0},
     {"code": "HS2401", "name": "Tamils and Technology", "credits": 1},
 ]
-
 # Grade to point mapping
 grade_to_point = {
     "O": 10,
