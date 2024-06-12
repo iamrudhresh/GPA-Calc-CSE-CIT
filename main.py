@@ -25,7 +25,7 @@ grade_to_point = {
 # Streamlit app
 st.set_page_config(page_title="GPA Calculator", page_icon="📊")
 
-st.markdown("<h1 style='text-align: center; color: navy;'>GPA Calculator for 4th Sem Result</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; '>GPA Calculator for 4th Sem Result</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>By <strong>Rudhresh S</strong></p>", unsafe_allow_html=True)
 
 st.write("Enter your grades for the following subjects:")
@@ -46,7 +46,7 @@ if st.button("Calculate GPA"):
 
     for subject in subjects:
         grade = grades[subject['code']]
-        if grade == "None":
+        if grade == "Select":
             missing_grades = True
             break
         credits = subject["credits"]
