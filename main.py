@@ -4,10 +4,10 @@ import streamlit as st
 subjects = [
     {"code": "MA2401", "name": "Discrete Mathematics", "credits": 3},
     {"code": "CS2401", "name": "Operating System", "credits": 4},
-    {"code": "CS2402", "name": "Artificial Intelligence and Machine", "credits": 4},
+    {"code": "CS2402", "name": "Artificial Intelligence and Machine Learning / Machine Learning", "credits": 4},
     {"code": "CS2403", "name": "Computer Networks", "credits": 4},
     {"code": "CS2404", "name": "Web Frameworks", "credits": 4},
-    {"code": "CS2405", "name": "Software Engineering", "credits": 4},
+    {"code": "CS2405", "name": "Software Engineering / Artificial Intelligence", "credits": 4},
     {"code": "ES2401", "name": "Employability Enhancement Skills", "credits": 0},
     {"code": "HS2401", "name": "Tamils and Technology", "credits": 1},
 ]
