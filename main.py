@@ -34,7 +34,7 @@ grades = {}
 for subject in subjects:
     grade = st.selectbox(
         f"{subject['name']} ({subject['code']})",
-        options=["None"] + list(grade_to_point.keys()),
+        options=["Select"] + list(grade_to_point.keys()),
         key=subject['code']
     )
     grades[subject['code']] = grade
