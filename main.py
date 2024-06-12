@@ -52,8 +52,6 @@ department_subjects = {
         {"code": "HS2401", "name": "Tamils and Technology", "credits": 1},
     ]
 }
-
-# Grade to point mapping
 grade_to_point = {
     "O": 10,
     "A+": 9,
