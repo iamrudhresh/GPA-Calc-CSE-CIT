@@ -28,8 +28,8 @@ department_subjects = {
         {"code": "AD2402", "name": "Machine Learning", "credits": 4},
         {"code": "AD2403", "name": "Computer Networks", "credits": 4},
         {"code": "AD2404", "name": "Web Frameworks", "credits": 4},
-        {"code": "AD2405", "name": "Artificial Intelligence", "credits": 4},
-        {"code": "ES2401", "name": "Employability Enhancement Skills", "credits": 0},
+        {"code": "AD2405", "name": "Artificial Intelligence", "credits": 3},
+        {"code": "ES2401", "name": "Employability Enhancement Skills", "credits": 1},
         {"code": "HS2401", "name": "Tamils and Technology", "credits": 1},
     ],
     "AI&ML": [
@@ -38,8 +38,8 @@ department_subjects = {
         {"code": "AM2402", "name": "Machine Learning", "credits": 4},
         {"code": "AM2403", "name": "Computer Networks", "credits": 4},
         {"code": "AM2404", "name": "Web Frameworks", "credits": 4},
-        {"code": "AM2405", "name": "Artificial Intelligence", "credits": 4},
-        {"code": "ES2401", "name": "Employability Enhancement Skills", "credits": 0},
+        {"code": "AM2405", "name": "Artificial Intelligence", "credits": 3},
+        {"code": "ES2401", "name": "Employability Enhancement Skills", "credits": 1},
         {"code": "HS2401", "name": "Tamils and Technology", "credits": 1},
     ],
     "ECE": [
