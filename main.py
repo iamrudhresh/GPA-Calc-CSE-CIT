@@ -1,6 +1,4 @@
 import streamlit as st
-
-# Department and subject details
 department_subjects = {
     "CSE": [
         {"code": "MA2401", "name": "Discrete Mathematics", "credits": 3},
